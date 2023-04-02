@@ -15,10 +15,10 @@ Também realizamos, na mesma plataforma, um estudo sobre versionamento de códig
 
 semana 02:
 
-Na segunda semana, seguimos com o aprofundo dos estudos em Python, com foco em manipulação e tratamento de dados. Realizamos o curso: "Python for Data Engineering: Fundamentals Part II" além de uma revisão do paradigma OO na linguagem Python. Ao final, desenvolvemos um projeto de análise de dados, que pode ser encontrado no link abaixo:
+Na segunda semana, seguimos com o aprofundo dos estudos em Python, com foco em manipulação e tratamento de dados. Realizamos o curso: "Python for Data Engineering: Fundamentals Part II" além de uma revisão do paradigma OO na linguagem Python. Ao final, desenvolvemos um projeto de análise de dados, que pode ser encontrado 
 
-![semana_02](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana_02)
+![link][neste link](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana_02)
 
 semana 03:
 
-A terceira semana foi dedicada a revisão das principais estruturas de dados, como linked lists, queues and stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. Os desafios foram realizados com co-criação do chats GPT 4, e o resultado final pode ser encontrado no link a seguir.
+A terceira semana foi dedicada a revisão das principais estruturas de dados, como linked lists, queues and stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. Os desafios foram realizados com auxilio do Large Language Model (LLM) e ChatGPT. O resultado final pode ser encontrado aqui (hiperlinkar).
