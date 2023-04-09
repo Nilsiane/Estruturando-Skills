@@ -20,4 +20,4 @@ Na segunda semana, seguimos com o aprofundo dos estudos em Python, com foco em m
 
 semana 03:
 
-A terceira semana foi dedicada a revisão das principais estruturas de dados, como linked lists, queues and stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. Os desafios foram realizados com auxilio do Large Language Model (LLM) e ChatGPT. O resultado final pode ser encontrado aqui (hiperlinkar).
+A terceira semana foi dedicada a revisão das principais estruturas de dados, como linked lists, doble and stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. O resultado final pode ser encontrado aqui (hiperlinkar).
