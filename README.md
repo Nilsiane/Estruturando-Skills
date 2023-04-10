@@ -16,8 +16,8 @@ Também realizamos, na mesma plataforma, um estudo sobre versionamento de códig
 semana 02:
 
 Na segunda semana, seguimos com o aprofundo dos estudos em Python, com foco em manipulação e tratamento de dados. Realizamos o curso: "Python for Data Engineering: Fundamentals Part II" além de uma revisão do paradigma OO na linguagem Python. Ao final, desenvolvemos um projeto de análise de dados, que pode ser encontrado 
-![neste link](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana_02)
+[neste link](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana_02)
 
 semana 03:
 
-A terceira semana foi dedicada a revisão das principais estruturas de dados, como Linked lists, Doubly linked lists e stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. O resultado final pode ser encontrado aqui (hiperlinkar).
+A terceira semana foi dedicada a revisão das principais estruturas de dados, como Linked lists, Doubly linked lists e stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. O resultado final pode ser encontrado aqui [semana 03](https://www.loom.com/share/d7a49bca3e354ab48c8942de5186a84b).
