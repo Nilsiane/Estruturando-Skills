@@ -20,4 +20,4 @@ Na segunda semana, seguimos com o aprofundo dos estudos em Python, com foco em m
 
 semana 03:
 
-A terceira semana foi dedicada a revisão das principais estruturas de dados, como Linked lists, Doubly linked lists e stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. O resultado final pode ser encontrado aqui [semana 03](https://www.loom.com/share/d7a49bca3e354ab48c8942de5186a84b).
+A terceira semana foi dedicada a revisão das principais estruturas de dados, como Linked lists, Doubly linked lists e stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. O resultado final pode ser encontrado aqui [semana 03](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana03).
