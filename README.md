@@ -21,3 +21,5 @@ Na segunda semana, seguimos com o aprofundo dos estudos em Python, com foco em m
 semana 03:
 
 A terceira semana foi dedicada a revisão das principais estruturas de dados, como Linked lists, Doubly linked lists e stacks. Foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando as citadas estruturas de dados. O resultado final pode ser encontrado aqui [semana 03](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana03).
+
+A quarta semana foi dedicada a revisão de recursividade, método que ajudará a entender as proximas estruturas de dados vindouras. Realizamos os cursos "Overview of Recursion" e "Introduction to Binary Trees" na plataforma Dataquest. Também tivemos aulas de revisão de Arvores de busca com o professor, em sala. Assim como na semana anterior, foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando o método recursivo. O resultado final pode ser encontrado aqui [semana 03](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana04).
