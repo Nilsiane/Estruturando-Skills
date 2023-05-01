@@ -1,1 +1,1 @@
-Explicação da semana 06
+ A semana 06 foi dedicada ao extudo da complexidade de algoritmos e também a revisão da estrutura de dados BST. Neste repositório, encontra-se o código com a solução de um desafio proposto pelo professor. Ao final no código, pode se ver o resultado dos testes, no proprio Jupyter Notebook.
