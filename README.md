@@ -25,3 +25,7 @@ A terceira semana foi dedicada a revisão das principais estruturas de dados, co
 semana 04:
 
 A quarta semana foi dedicada a revisão de recursividade, método que ajudará a entender as proximas estruturas de dados vindouras. Realizamos os cursos "Overview of Recursion" e "Introduction to Binary Trees" na plataforma Dataquest. Também tivemos aulas de revisão de Arvores de busca com o professor, em sala. Assim como na semana anterior, foram sugeridos, pelo professor, alguns desafios a serem resolvidos utilizando o método recursivo. O resultado final pode ser encontrado aqui: [semana 04](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana04).
+
+semana 06:
+
+Na sexta semana, finalizamos os estudos "Complexidade" e em "Binary Search Tree". Realizamos um curso guiado, através da plataforma "Dataquest", intitulado: "Introduction to Algorithms", onde nos aprofundamos no entendimento e no calculo da complexidade de tempo e espaço em algoritmos, estudando também formas de otimar o desempenho de um código. Também estudamos como implementar a BST e por fim, realizamos um desafio proposto pelo professor. O resultado do desafio pode ser visto aqui: [semana 06](https://github.com/Nilsiane/Estruturando-Skills/tree/main/Semana06).
